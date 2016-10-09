@@ -1,0 +1,35 @@
+.evaluate{
+	width:100%;
+	height:100%;
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+}
+.ev-head{
+	width:100%;
+	height:0.95rem;
+	background:#fff;
+	position:relative;
+}
+.ev-head a{
+    position:absolute;
+    width:0.18rem;
+    height:0.31rem;
+    background:url(../img/img3_01_03.png) no-repeat;
+    background-size:contain;
+    font-size:0;
+    left:0.2rem;
+    top:50%;
+    margin-top:-0.15rem;
+}
+.ev-head h3{
+	font-size:0.34rem;
+	color:#363636;
+	text-align:center;
+	line-height:0.95rem;
+}
+.ev-cont{
+	width:100%;
+	-webkit-box-flex:1;
+	background:url(../img/img7_10_02.png) no-repeat;
+	background-size:100% 100%;
+}

@@ -1,0 +1,96 @@
+.navs{
+	    position:absolute;
+    	width:100%;
+    	height:100%;
+    	background:#2E3649;
+    	left:0;
+    	top:0;
+    }
+.n-nav{
+	width:5.37rem;
+	height:100%;
+}
+.n-head{
+	width:100%;
+	height:2.28rem;
+}
+.n-head dl{
+	width:100%;
+}
+.n-head dt{
+	width:1.07rem;
+	height:1.07rem;
+	margin:0 auto;
+}
+.n-head dt img{
+	width:1.07rem;
+	height:1.07rem;
+}
+.n-head dd{
+	font-size:0.27rem;
+	text-align:center;
+	padding-top:0.3rem;
+	color:#EEEEEE;
+}
+.n-p{
+	width:100%;
+	height:0.85rem;
+}
+.n-dl{
+	width:3.7rem;
+	height:0.95rem;
+	margin:0 auto;
+	display:-webkit-box;
+	-webkit-box-pack:justify;
+}
+.n-dl dl{
+     width:0.6rem;
+     height:0.95rem;
+}
+.n-dl dl dt{
+	position:relative;
+	width:0.36rem;
+	height:0.36rem;
+}
+.n-dl dl dt img{
+	position:absolute;
+	width:0.36rem;
+	height:0.36rem;
+}
+.n-dl dl dd{
+	font-size:0.23rem;
+	padding-top:0.3rem;
+	color:#979BA4;
+} 
+.n-ul{
+	width:100%;
+	height:7.3rem;
+	margin-top:0.9rem;
+}
+.n-ul ul{
+	width:100%;
+	height:100%;
+}
+.n-ul ul li{
+	width:100%;
+	height:1.08rem;
+}
+.n-ul ul li p{
+	font-size:0.26rem;
+	line-height:1.08rem;
+	padding-left:0.4rem;
+	color:#A1A3A9;
+	display: inline-block;
+	vertical-align: middle;
+}
+.n-ul ul li img{
+	width:0.36rem;
+	height:0.36rem;
+	vertical-align: middle;
+	margin-left:0.75rem;
+}
+
+.n-bg{
+	background:#F3F3F3;
+	color:#2E3649;
+}

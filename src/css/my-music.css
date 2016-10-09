@@ -1,0 +1,230 @@
+.music{
+    width:100%;
+    height:100%;
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+}
+.mu-head{
+    width:100%;
+    height:0.95rem;
+    background:#fff;
+    position:relative;
+}
+.mu-head h3{
+    text-align:center;
+    line-height:0.95rem;
+    font-size:0.35rem;
+    color:#363636;
+}
+.mu-details{
+    position:absolute;
+    width:0.4rem;
+    height:0.28rem;
+    background:url(../img/img2_1_03.png) no-repeat;
+    background-size:contain;
+    left:0.2rem;
+    top:50%;
+    margin-top:-0.14rem;
+}
+.mu-details{
+    position:absolute;
+    width:0.4rem;
+    height:0.28rem;
+    background:url(../img/img2_1_03.png) no-repeat;
+    background-size:contain;
+    left:0.2rem;
+    top:50%;
+    margin-top:-0.14rem;
+}
+.mu-ranking{
+    position:absolute;
+    width:0.32rem;
+    height:0.32rem;
+    background:url(../img/img6_02_03.png) no-repeat;
+    background-size:contain;
+    right:0.2rem;
+    top:50%;
+    margin-top:-0.16rem;
+}
+.mu-cont{
+    width:100%;
+    -webkit-box-flex:1;
+    background:#F9FEFF;
+}
+.mu-banner{
+   width:100%;
+   height:4.4rem;
+   position:relative;
+}
+.mu-banner img{
+    width:100%;
+    height:100%;
+}
+.mu-play{
+    position:absolute;
+    width:7.1rem;
+    height:1.95rem;
+    background:#fff;
+    left:50%;
+    margin-left:-3.5rem;
+    bottom:-0.85rem;
+    border-radius:0.1rem;
+    -webkit-box-shadow:0 0 10px rgba(0, 0, 0, .5);
+}
+.mu-dv1{
+    float:left;
+    width:3rem;
+    height:1.65rem;
+    margin-left:0.3rem;
+    position:relative;
+}
+.mu-dv1 img{
+    position:absolute;
+    width:1.34rem;
+    height:1.34rem;
+    left:0;
+    top:-0.35rem;
+}
+.mu-dv1 p{
+    color:#454545;
+    font-size:0.27rem;
+    padding-left:1.5rem;
+    padding-top:0.15rem;
+}
+.mu-dv1 p span{
+    display:block;
+    color:#9F9F9F;
+    padding-top:0.15rem;
+}
+.mu-dv1 h4{
+    color:#333333;
+    font-size:0.3rem;
+    font-weight:100;
+    padding-top:0.2rem;
+}
+.mu-dv2{
+    width:1.8rem;
+    height:108rem;
+    float:right;
+    margin-right:0.77rem;
+    margin-top:0.5rem;
+}
+.mu-dv2 img{
+    width:0.59rem;
+    height:0.59rem;
+    margin-left:0.5rem;
+}
+.mu-dv2 p{
+    font-size:0.2rem;
+    color:#7F7F7F;
+    padding-top:0.2rem;
+}
+.mu-lyric{
+    width:100%;
+    height:0.88rem;
+    border-bottom:1px solid #E8E8E8;
+    margin-top:0.9rem;
+    position:relative;
+}
+.mu-lyric h3{
+    font-size:0.3rem;
+    color:#333333;
+    line-height:0.88rem;
+    padding-left:0.25rem;
+}
+.mu-ci{
+    position:absolute;
+    width:0.25rem;
+    height:0.36rem;
+    background:url(../img/img6_05_15.png) no-repeat;
+    background-size:contain;
+    right:1.33rem;
+    top:50%;
+    margin-top:-0.18rem;
+}
+.mu-lick{
+    position:absolute;
+    width:0.36rem;
+    height:0.36rem;
+    background:url(../img/img6_06_17.png) no-repeat;
+    background-size:contain;
+    right:0.62rem;
+    top:50%;
+    margin-top:-0.18rem;
+}
+.mu-text{
+    width:100%;
+    height:3.5rem;
+    border-bottom:1px solid #E8E8E8;
+}
+.mu-text p{
+    width:3.6rem;
+    height:3.28rem;
+    margin:0.2rem auto;
+    font-size:0.27rem;
+    color:#767676;
+    text-align:center;
+    line-height:0.43rem;
+}
+.mu-h1{
+    width:100%;
+    height:0.55rem;
+    border-bottom:1px solid #E8E8E8;
+    position:relative;
+}
+.mu-h1 h3{
+    font-size:0.3rem;
+    color:#333333;
+    font-weight:100;
+    padding-left:0.24rem;
+    line-height:0.55rem;
+}
+.mu-news{
+    position:absolute;
+    width:0.36rem;
+    height:0.36rem;
+    background:url(../img/img6_07_21.png) no-repeat;
+    background-size:contain;
+    right:0.6rem;
+    top:50%;
+    margin-top:-0.18rem;
+}
+.mu-dls{
+    width:6.65rem;
+    height:1.68rem;
+    position:relative;
+    margin:0 auto;
+}
+.mu-dls dl{
+    width:100%;
+    height:100%;
+    display:-webkit-box;
+}
+.mu-dls dl dt{
+    width:1.08rem;
+    height:1.08rem;
+}
+.mu-dls dl dt img{
+    width:1.08rem;
+    height:1.08rem;
+    margin-top:0.32rem;
+}
+.mu-dls dl dd{
+    height:100%;
+    border-bottom:1px solid #E8E8E8;
+    margin-top:0.32rem;
+    margin-left:0.23rem;
+}
+.mu-dls dl dd p{
+    color:#93999A;
+    font-size:0.25rem;
+}
+.mu-dls dl dd p a{
+    float:right;
+}
+.mu-dls dl dd span{
+    display:block;
+    font-size:0.25rem;
+    color:#696D6E;
+    padding-top:0.6rem;
+}
